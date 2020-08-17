@@ -4,7 +4,7 @@ This project is part of the course 'Applied Data Science - COVID 19 Data Analysi
 
 The goal of this project is to develop a dynamic dashboard for COVID-19 cases across the multiple countries. All of the algorithm and models have been implemented in Python.
 
-Following techniques have been used for this DASH implementation
+Following techniques have been used for this DASH implementation.
 REST Services
 Python Pandas, Scikit-learn
 Facebook Prophet
